@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on **Web Development
 - 🌱 I’m currently learning ** MERN Stack
-- 👯 I’m looking to collaborate on **Web & App Development
+- 👯 I’m looking to collaborate on **Web & Mobile App Development
 - 🤔 I’m looking for help with **Coding
 - 💬 Ask me about **Technology and Personal Development
 - 📫 How to reach me: **bhuvanjaishi83@gmail.com
