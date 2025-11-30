@@ -9,7 +9,9 @@
 - ⚡ Fun fact: **I run a Youtube Channel*
   
   ## About Me
-  
+I am a passionate Full Stack Developer specializing in creating dynamic, scalable, and efficient web applications. I have strong experience in frontend technologies like HTML, CSS, JavaScript, and React, as well as backend development using Node.js, Express, PHP, and MySQL.
+My goal is to build high-quality digital solutions that offer smooth performance, great user experience, and powerful functionality. I love learning new technologies and improving my skills every day.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cristiano.georgina.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cristiano_bhuone_7?igsh=YnBkcTdva3FmbWc4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuone-joshi-4a4ba534b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@http://tiktok.com/@bhuone_joshi_7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BhuvanJaishi/status/1638425250089308161?t=TLJUEbne-yANEf0zZrVGOQ&s=19) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bhuonejoshi7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvanjaishi83@gmail.com) 
 
