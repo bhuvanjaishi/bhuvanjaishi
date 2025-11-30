@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  [![](https://visitcount.itsvg.in/api?id=BhuvanJaishi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - 🔭 I’m currently working on **Web Development
 - 🌱 I’m currently learning ** MERN Stack
 - 👯 I’m looking to collaborate on **Web & Mobile App Development
@@ -24,6 +25,5 @@ My goal is to build high-quality digital solutions that offer smooth performance
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanJaishi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BhuvanJaishi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
