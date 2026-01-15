@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **I run a Youtube Channel*
   
   ## About Me
-I am a passionate Full Stack Developer specializing in creating dynamic, scalable, and efficient web applications. I have strong experience in frontend technologies like HTML, CSS, JavaScript, and React, as well as backend development using Node.js, Express, PHP, and MySQL.
+I am a passionate Full Stack Developer specializing in creating dynamic, scalable, and efficient web applications. I have strong experience in frontend technologies like HTML, CSS, JavaScript,TypeScript, Tailwind CSS and React, as well as backend development using Node.js, Express, PHP, and MySQL.
 My goal is to build high-quality digital solutions that offer smooth performance, great user experience, and powerful functionality. I love learning new technologies and improving my skills every day.
 
 ## 🌐 Socials:
